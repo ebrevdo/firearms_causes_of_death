@@ -1,0 +1,286 @@
+"Notes"	"State"	"State Code"	"Cause of death"	"Cause of death Code"	Deaths	Population	Crude Rate	Non-standard Age Adjusted Rate	Non-standard Age Adjusted Rate Lower 95% Confidence Interval	Non-standard Age Adjusted Rate Upper 95% Confidence Interval	Non-standard Age Adjusted Rate Standard Error
+	"Alabama"	"01"	"Intentional self-harm by handgun discharge"	"X72"	48	27417949	0.2	0.2	0.1	0.2	0.0
+	"Alabama"	"01"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	55	27417949	0.2	0.2	0.1	0.3	0.0
+	"Alabama"	"01"	"Assault by handgun discharge"	"X93"	120	27417949	0.4	0.4	0.4	0.5	0.0
+	"Alabama"	"01"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	54	27417949	0.2	0.2	0.1	0.3	0.0
+	"Alaska"	"02"	"Intentional self-harm by handgun discharge"	"X72"	42	4517339	0.9	1.0	0.7	1.3	0.2
+	"Alaska"	"02"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	64	4517339	1.4	1.5	1.2	1.9	0.2
+	"Arizona"	"04"	"Intentional self-harm by handgun discharge"	"X72"	86	38225041	0.2	0.2	0.2	0.3	0.0
+	"Arizona"	"04"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	81	38225041	0.2	0.2	0.2	0.3	0.0
+	"Arizona"	"04"	"Assault by handgun discharge"	"X93"	17	38225041	Unreliable	Unreliable	0.0	0.1	0.0
+	"Arizona"	"04"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	44	38225041	0.1	0.1	0.1	0.2	0.0
+	"Arizona"	"04"	"Legal intervention involving firearm discharge"	"Y35.0"	15	38225041	Unreliable	Unreliable	0.0	0.1	0.0
+	"Arkansas"	"05"	"Intentional self-harm by handgun discharge"	"X72"	21	17095767	0.1	0.1	0.1	0.2	0.0
+	"Arkansas"	"05"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	43	17095767	0.3	0.3	0.2	0.3	0.0
+	"Arkansas"	"05"	"Assault by handgun discharge"	"X93"	17	17095767	Unreliable	Unreliable	0.1	0.1	0.0
+	"Arkansas"	"05"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	30	17095767	0.2	0.2	0.1	0.2	0.0
+	"California"	"06"	"Intentional self-harm by handgun discharge"	"X72"	493	225896052	0.2	0.2	0.2	0.2	0.0
+	"California"	"06"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	283	225896052	0.1	0.1	0.1	0.1	0.0
+	"California"	"06"	"Assault by handgun discharge"	"X93"	1053	225896052	0.5	0.5	0.4	0.5	0.0
+	"California"	"06"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	260	225896052	0.1	0.1	0.1	0.1	0.0
+	"California"	"06"	"Handgun discharge, undetermined intent"	"Y22"	22	225896052	0.0	0.0	0.0	0.0	0.0
+	"California"	"06"	"Legal intervention involving firearm discharge"	"Y35.0"	111	225896052	0.0	0.0	0.0	0.1	0.0
+	"Colorado"	"08"	"Intentional self-harm by handgun discharge"	"X72"	117	29428984	0.4	0.4	0.3	0.5	0.0
+	"Colorado"	"08"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	109	29428984	0.4	0.4	0.3	0.4	0.0
+	"Colorado"	"08"	"Assault by handgun discharge"	"X93"	45	29428984	0.2	0.2	0.1	0.2	0.0
+	"Colorado"	"08"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	43	29428984	0.1	0.1	0.1	0.2	0.0
+	"Colorado"	"08"	"Legal intervention involving firearm discharge"	"Y35.0"	17	29428984	Unreliable	Unreliable	0.0	0.1	0.0
+	"Connecticut"	"09"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	10	19820318	Unreliable	Unreliable	0.0	0.1	0.0
+	"Delaware"	"10"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	15	5013258	Unreliable	Unreliable	0.2	0.5	0.1
+	"Florida"	"12"	"Intentional self-harm by handgun discharge"	"X72"	224	97937018	0.2	0.2	0.2	0.2	0.0
+	"Florida"	"12"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	134	97937018	0.1	0.1	0.1	0.2	0.0
+	"Florida"	"12"	"Assault by handgun discharge"	"X93"	224	97937018	0.2	0.2	0.2	0.3	0.0
+	"Florida"	"12"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	81	97937018	0.1	0.1	0.1	0.1	0.0
+	"Florida"	"12"	"Legal intervention involving firearm discharge"	"Y35.0"	29	97937018	0.0	0.0	0.0	0.0	0.0
+	"Georgia"	"13"	"Intentional self-harm by handgun discharge"	"X72"	118	59034927	0.2	0.2	0.2	0.3	0.0
+	"Georgia"	"13"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	85	59034927	0.1	0.2	0.1	0.2	0.0
+	"Georgia"	"13"	"Assault by handgun discharge"	"X93"	72	59034927	0.1	0.1	0.1	0.2	0.0
+	"Georgia"	"13"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	63	59034927	0.1	0.1	0.1	0.1	0.0
+	"Georgia"	"13"	"Legal intervention involving firearm discharge"	"Y35.0"	16	59034927	Unreliable	Unreliable	0.0	0.0	0.0
+	"Idaho"	"16"	"Intentional self-harm by handgun discharge"	"X72"	111	10117751	1.1	1.1	0.9	1.3	0.1
+	"Idaho"	"16"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	88	10117751	0.9	0.9	0.7	1.1	0.1
+	"Idaho"	"16"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	10	10117751	Unreliable	Unreliable	0.0	0.2	0.0
+	"Illinois"	"17"	"Intentional self-harm by handgun discharge"	"X72"	56	75506930	0.1	0.1	0.1	0.1	0.0
+	"Illinois"	"17"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	58	75506930	0.1	0.1	0.1	0.1	0.0
+	"Illinois"	"17"	"Assault by handgun discharge"	"X93"	38	75506930	0.1	0.1	0.0	0.1	0.0
+	"Illinois"	"17"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	57	75506930	0.1	0.1	0.1	0.1	0.0
+	"Illinois"	"17"	"Legal intervention involving firearm discharge"	"Y35.0"	25	75506930	0.0	0.0	0.0	0.1	0.0
+	"Indiana"	"18"	"Intentional self-harm by handgun discharge"	"X72"	106	39029512	0.3	0.3	0.2	0.3	0.0
+	"Indiana"	"18"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	56	39029512	0.1	0.1	0.1	0.2	0.0
+	"Indiana"	"18"	"Assault by handgun discharge"	"X93"	54	39029512	0.1	0.2	0.1	0.2	0.0
+	"Indiana"	"18"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	36	39029512	0.1	0.1	0.1	0.2	0.0
+	"Indiana"	"18"	"Handgun discharge, undetermined intent"	"Y22"	10	39029512	Unreliable	Unreliable	0.0	0.1	0.0
+	"Iowa"	"19"	"Intentional self-harm by handgun discharge"	"X72"	89	18001523	0.5	0.5	0.4	0.6	0.1
+	"Iowa"	"19"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	165	18001523	0.9	0.9	0.7	1.0	0.1
+	"Iowa"	"19"	"Assault by handgun discharge"	"X93"	21	18001523	0.1	0.1	0.1	0.2	0.0
+	"Iowa"	"19"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	25	18001523	0.1	0.1	0.1	0.2	0.0
+	"Kansas"	"20"	"Intentional self-harm by handgun discharge"	"X72"	35	17531052	0.2	0.2	0.1	0.3	0.0
+	"Kansas"	"20"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	55	17531052	0.3	0.3	0.2	0.4	0.0
+	"Kansas"	"20"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	13	17531052	Unreliable	Unreliable	0.0	0.1	0.0
+	"Kentucky"	"21"	"Intentional self-harm by handgun discharge"	"X72"	28	24746304	0.1	0.1	0.1	0.2	0.0
+	"Kentucky"	"21"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	51	24746304	0.2	0.2	0.2	0.3	0.0
+	"Kentucky"	"21"	"Assault by handgun discharge"	"X93"	21	24746304	0.1	0.1	0.1	0.1	0.0
+	"Kentucky"	"21"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	16	24746304	Unreliable	Unreliable	0.0	0.1	0.0
+	"Louisiana"	"22"	"Intentional self-harm by handgun discharge"	"X72"	11	27844343	Unreliable	Unreliable	0.0	0.1	0.0
+	"Louisiana"	"22"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	56	27844343	0.2	0.2	0.2	0.3	0.0
+	"Louisiana"	"22"	"Assault by handgun discharge"	"X93"	22	27844343	0.1	0.1	0.0	0.1	0.0
+	"Louisiana"	"22"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	33	27844343	0.1	0.1	0.1	0.2	0.0
+	"Maine"	"23"	"Intentional self-harm by handgun discharge"	"X72"	40	6832419	0.6	0.5	0.4	0.7	0.1
+	"Maine"	"23"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	58	6832419	0.8	0.8	0.6	1.0	0.1
+	"Maine"	"23"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	12	6832419	Unreliable	Unreliable	0.1	0.3	0.0
+	"Maryland"	"24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	62	33221478	0.2	0.2	0.1	0.2	0.0
+	"Maryland"	"24"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	35	33221478	0.1	0.1	0.1	0.2	0.0
+	"Maryland"	"24"	"Legal intervention involving firearm discharge"	"Y35.0"	22	33221478	0.1	0.1	0.0	0.1	0.0
+	"Massachusetts"	"25"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	13	35723349	Unreliable	Unreliable	0.0	0.1	0.0
+	"Massachusetts"	"25"	"Assault by handgun discharge"	"X93"	16	35723349	Unreliable	Unreliable	0.0	0.1	0.0
+	"Michigan"	"26"	"Intentional self-harm by handgun discharge"	"X72"	56	58428647	0.1	0.1	0.1	0.1	0.0
+	"Michigan"	"26"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	178	58428647	0.3	0.3	0.3	0.3	0.0
+	"Michigan"	"26"	"Assault by handgun discharge"	"X93"	16	58428647	Unreliable	Unreliable	0.0	0.0	0.0
+	"Michigan"	"26"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	57	58428647	0.1	0.1	0.1	0.1	0.0
+	"Michigan"	"26"	"Legal intervention involving firearm discharge"	"Y35.0"	13	58428647	Unreliable	Unreliable	0.0	0.0	0.0
+	"Minnesota"	"27"	"Intentional self-harm by handgun discharge"	"X72"	62	31539456	0.2	0.2	0.2	0.3	0.0
+	"Minnesota"	"27"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	167	31539456	0.5	0.5	0.5	0.6	0.0
+	"Minnesota"	"27"	"Assault by handgun discharge"	"X93"	12	31539456	Unreliable	Unreliable	0.0	0.1	0.0
+	"Minnesota"	"27"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	19	31539456	Unreliable	Unreliable	0.0	0.1	0.0
+	"Mississippi"	"28"	"Intentional self-harm by handgun discharge"	"X72"	62	18345934	0.3	0.3	0.2	0.4	0.0
+	"Mississippi"	"28"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	86	18345934	0.5	0.5	0.4	0.6	0.1
+	"Mississippi"	"28"	"Assault by handgun discharge"	"X93"	120	18345934	0.7	0.6	0.5	0.8	0.1
+	"Mississippi"	"28"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	31	18345934	0.2	0.2	0.1	0.2	0.0
+	"Mississippi"	"28"	"Handgun discharge, undetermined intent"	"Y22"	10	18345934	Unreliable	Unreliable	0.0	0.1	0.0
+	"Missouri"	"29"	"Intentional self-harm by handgun discharge"	"X72"	191	34632012	0.6	0.6	0.5	0.6	0.0
+	"Missouri"	"29"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	157	34632012	0.5	0.5	0.4	0.5	0.0
+	"Missouri"	"29"	"Assault by handgun discharge"	"X93"	128	34632012	0.4	0.4	0.3	0.4	0.0
+	"Missouri"	"29"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	67	34632012	0.2	0.2	0.2	0.3	0.0
+	"Missouri"	"29"	"Handgun discharge, undetermined intent"	"Y22"	12	34632012	Unreliable	Unreliable	0.0	0.1	0.0
+	"Montana"	"30"	"Intentional self-harm by handgun discharge"	"X72"	32	5562664	0.6	0.6	0.4	0.8	0.1
+	"Montana"	"30"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	33	5562664	0.6	0.6	0.4	0.8	0.1
+	"Montana"	"30"	"Assault by handgun discharge"	"X93"	16	5562664	Unreliable	Unreliable	0.2	0.5	0.1
+	"Nebraska"	"31"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	46	11306792	0.4	0.4	0.3	0.6	0.1
+	"Nevada"	"32"	"Intentional self-harm by handgun discharge"	"X72"	44	15270073	0.3	0.3	0.2	0.4	0.0
+	"Nevada"	"32"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	32	15270073	0.2	0.2	0.2	0.3	0.0
+	"Nevada"	"32"	"Assault by handgun discharge"	"X93"	20	15270073	0.1	0.1	0.1	0.2	0.0
+	"Nevada"	"32"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	15	15270073	Unreliable	Unreliable	0.1	0.2	0.0
+	"Nevada"	"32"	"Legal intervention involving firearm discharge"	"Y35.0"	10	15270073	Unreliable	Unreliable	0.0	0.1	0.0
+	"New Hampshire"	"33"	"Intentional self-harm by handgun discharge"	"X72"	23	7115823	0.3	0.3	0.2	0.5	0.1
+	"New Hampshire"	"33"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	26	7115823	0.4	0.3	0.2	0.5	0.1
+	"New Jersey"	"34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	26	49779402	0.1	0.1	0.0	0.1	0.0
+	"New Jersey"	"34"	"Assault by handgun discharge"	"X93"	17	49779402	Unreliable	Unreliable	0.0	0.1	0.0
+	"New Jersey"	"34"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	23	49779402	0.0	0.0	0.0	0.1	0.0
+	"New Mexico"	"35"	"Intentional self-harm by handgun discharge"	"X72"	134	12309063	1.1	1.1	0.9	1.3	0.1
+	"New Mexico"	"35"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	80	12309063	0.6	0.7	0.5	0.8	0.1
+	"New Mexico"	"35"	"Assault by handgun discharge"	"X93"	82	12309063	0.7	0.7	0.5	0.8	0.1
+	"New Mexico"	"35"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	40	12309063	0.3	0.3	0.2	0.5	0.1
+	"New Mexico"	"35"	"Legal intervention involving firearm discharge"	"Y35.0"	11	12309063	Unreliable	Unreliable	0.0	0.2	0.0
+	"New York"	"36"	"Intentional self-harm by handgun discharge"	"X72"	13	107658204	Unreliable	Unreliable	0.0	0.0	0.0
+	"New York"	"36"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	118	107658204	0.1	0.1	0.1	0.1	0.0
+	"New York"	"36"	"Assault by handgun discharge"	"X93"	10	107658204	Unreliable	Unreliable	0.0	0.0	0.0
+	"New York"	"36"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	55	107658204	0.1	0.0	0.0	0.0	0.0
+	"New York"	"36"	"Legal intervention involving firearm discharge"	"Y35.0"	28	107658204	0.0	0.0	0.0	0.0	0.0
+	"North Carolina"	"37"	"Intentional self-harm by handgun discharge"	"X72"	86	54123771	0.2	0.1	0.1	0.2	0.0
+	"North Carolina"	"37"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	77	54123771	0.1	0.1	0.1	0.2	0.0
+	"North Carolina"	"37"	"Assault by handgun discharge"	"X93"	42	54123771	0.1	0.1	0.1	0.1	0.0
+	"North Carolina"	"37"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	72	54123771	0.1	0.1	0.1	0.2	0.0
+	"North Dakota"	"38"	"Intentional self-harm by handgun discharge"	"X72"	25	4026387	0.6	0.6	0.4	0.9	0.1
+	"North Dakota"	"38"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	45	4026387	1.1	1.1	0.8	1.4	0.2
+	"Ohio"	"39"	"Intentional self-harm by handgun discharge"	"X72"	68	67138178	0.1	0.1	0.1	0.1	0.0
+	"Ohio"	"39"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	113	67138178	0.2	0.2	0.1	0.2	0.0
+	"Ohio"	"39"	"Assault by handgun discharge"	"X93"	78	67138178	0.1	0.1	0.1	0.1	0.0
+	"Ohio"	"39"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	44	67138178	0.1	0.1	0.0	0.1	0.0
+	"Ohio"	"39"	"Legal intervention involving firearm discharge"	"Y35.0"	22	67138178	0.0	0.0	0.0	0.1	0.0
+	"Oklahoma"	"40"	"Intentional self-harm by handgun discharge"	"X72"	217	22651510	1.0	1.0	0.8	1.1	0.1
+	"Oklahoma"	"40"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	126	22651510	0.6	0.6	0.5	0.7	0.1
+	"Oklahoma"	"40"	"Assault by handgun discharge"	"X93"	142	22651510	0.6	0.6	0.5	0.7	0.1
+	"Oklahoma"	"40"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	49	22651510	0.2	0.2	0.2	0.3	0.0
+	"Oklahoma"	"40"	"Legal intervention involving firearm discharge"	"Y35.0"	10	22651510	Unreliable	Unreliable	0.0	0.1	0.0
+	"Oregon"	"41"	"Intentional self-harm by handgun discharge"	"X72"	180	21093334	0.9	0.9	0.7	1.0	0.1
+	"Oregon"	"41"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	109	21093334	0.5	0.5	0.4	0.6	0.1
+	"Oregon"	"41"	"Assault by handgun discharge"	"X93"	52	21093334	0.2	0.3	0.2	0.3	0.0
+	"Oregon"	"41"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	24	21093334	0.1	0.1	0.1	0.2	0.0
+	"Oregon"	"41"	"Legal intervention involving firearm discharge"	"Y35.0"	10	21093334	Unreliable	Unreliable	0.0	0.1	0.0
+	"Pennsylvania"	"42"	"Intentional self-harm by handgun discharge"	"X72"	57	69171293	0.1	0.1	0.1	0.1	0.0
+	"Pennsylvania"	"42"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	95	69171293	0.1	0.1	0.1	0.2	0.0
+	"Pennsylvania"	"42"	"Assault by handgun discharge"	"X93"	21	69171293	0.0	0.0	0.0	0.0	0.0
+	"Pennsylvania"	"42"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	40	69171293	0.1	0.1	0.0	0.1	0.0
+	"Pennsylvania"	"42"	"Legal intervention involving firearm discharge"	"Y35.0"	15	69171293	Unreliable	Unreliable	0.0	0.0	0.0
+	"South Carolina"	"45"	"Intentional self-harm by handgun discharge"	"X72"	17	26368780	Unreliable	Unreliable	0.0	0.1	0.0
+	"South Carolina"	"45"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	38	26368780	0.1	0.1	0.1	0.2	0.0
+	"South Carolina"	"45"	"Assault by handgun discharge"	"X93"	17	26368780	Unreliable	Unreliable	0.0	0.1	0.0
+	"South Carolina"	"45"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	42	26368780	0.2	0.2	0.1	0.2	0.0
+	"South Dakota"	"46"	"Intentional self-harm by handgun discharge"	"X72"	42	5049875	0.8	0.8	0.6	1.1	0.1
+	"South Dakota"	"46"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	81	5049875	1.6	1.6	1.3	2.0	0.2
+	"South Dakota"	"46"	"Assault by handgun discharge"	"X93"	10	5049875	Unreliable	Unreliable	0.1	0.4	0.1
+	"South Dakota"	"46"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	11	5049875	Unreliable	Unreliable	0.1	0.4	0.1
+	"Tennessee"	"47"	"Intentional self-harm by handgun discharge"	"X72"	29	36019247	0.1	0.1	0.1	0.1	0.0
+	"Tennessee"	"47"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	75	36019247	0.2	0.2	0.2	0.3	0.0
+	"Tennessee"	"47"	"Assault by handgun discharge"	"X93"	28	36019247	0.1	0.1	0.1	0.1	0.0
+	"Tennessee"	"47"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	36	36019247	0.1	0.1	0.1	0.1	0.0
+	"Texas"	"48"	"Intentional self-harm by handgun discharge"	"X72"	172	164014554	0.1	0.1	0.1	0.1	0.0
+	"Texas"	"48"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	371	164014554	0.2	0.2	0.2	0.3	0.0
+	"Texas"	"48"	"Assault by handgun discharge"	"X93"	115	164014554	0.1	0.1	0.0	0.1	0.0
+	"Texas"	"48"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	235	164014554	0.1	0.1	0.1	0.2	0.0
+	"Texas"	"48"	"Legal intervention involving firearm discharge"	"Y35.0"	49	164014554	0.0	0.0	0.0	0.0	0.0
+	"Utah"	"49"	"Intentional self-harm by handgun discharge"	"X72"	182	20439098	0.9	0.9	0.8	1.1	0.1
+	"Utah"	"49"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	131	20439098	0.6	0.7	0.6	0.8	0.1
+	"Utah"	"49"	"Assault by handgun discharge"	"X93"	14	20439098	Unreliable	Unreliable	0.0	0.1	0.0
+	"Vermont"	"50"	"Intentional self-harm by handgun discharge"	"X72"	17	3323086	Unreliable	Unreliable	0.3	0.7	0.1
+	"Vermont"	"50"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	23	3323086	0.7	0.6	0.4	0.9	0.1
+	"Virginia"	"51"	"Intentional self-harm by handgun discharge"	"X72"	193	45083923	0.4	0.4	0.4	0.5	0.0
+	"Virginia"	"51"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	144	45083923	0.3	0.3	0.3	0.4	0.0
+	"Virginia"	"51"	"Assault by handgun discharge"	"X93"	358	45083923	0.8	0.8	0.7	0.9	0.0
+	"Virginia"	"51"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	59	45083923	0.1	0.1	0.1	0.2	0.0
+	"Virginia"	"51"	"Legal intervention involving firearm discharge"	"Y35.0"	18	45083923	Unreliable	Unreliable	0.0	0.1	0.0
+	"Washington"	"53"	"Intentional self-harm by handgun discharge"	"X72"	284	38530341	0.7	0.8	0.7	0.8	0.0
+	"Washington"	"53"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	184	38530341	0.5	0.5	0.4	0.6	0.0
+	"Washington"	"53"	"Assault by handgun discharge"	"X93"	78	38530341	0.2	0.2	0.2	0.3	0.0
+	"Washington"	"53"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	33	38530341	0.1	0.1	0.1	0.1	0.0
+	"Washington"	"53"	"Legal intervention involving firearm discharge"	"Y35.0"	14	38530341	Unreliable	Unreliable	0.0	0.1	0.0
+	"West Virginia"	"54"	"Intentional self-harm by handgun discharge"	"X72"	48	9514000	0.5	0.5	0.4	0.6	0.1
+	"West Virginia"	"54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	45	9514000	0.5	0.5	0.3	0.6	0.1
+	"West Virginia"	"54"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	27	9514000	0.3	0.3	0.2	0.4	0.1
+	"Wisconsin"	"55"	"Intentional self-harm by handgun discharge"	"X72"	165	32742077	0.5	0.5	0.4	0.6	0.0
+	"Wisconsin"	"55"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	276	32742077	0.8	0.8	0.7	0.9	0.0
+	"Wisconsin"	"55"	"Assault by handgun discharge"	"X93"	282	32742077	0.9	0.8	0.7	0.9	0.1
+	"Wisconsin"	"55"	"Assault by rifle, shotgun and larger firearm discharge"	"X94"	53	32742077	0.2	0.2	0.1	0.2	0.0
+	"Wyoming"	"56"	"Intentional self-harm by handgun discharge"	"X72"	39	3245624	1.2	1.2	0.8	1.6	0.2
+	"Wyoming"	"56"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	35	3245624	1.1	1.1	0.7	1.5	0.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"ICD-10 Codes: X72 (Intentional self-harm by handgun discharge); X73 (Intentional self-harm by rifle, shotgun and larger firearm"
+"discharge); X93 (Assault by handgun discharge); X94 (Assault by rifle, shotgun and larger firearm discharge); Y22 (Handgun"
+"discharge, undetermined intent); Y23 (Rifle, shotgun and larger firearm discharge, undetermined intent); Y35.0 (Legal"
+"intervention involving firearm discharge)"
+"Single-Year Ages: < 1 year; 1 year; 2 years; 3 years; 4 years; 5 years; 6 years; 7 years; 8 years; 9 years; 10 years; 11 years;"
+"12 years; 13 years; 14 years; 15 years; 16 years; 17 years; 18 years; 19 years"
+"Group By: State; Cause of death"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"Non-standard Age Adjusted Rate Parameters:"
+"Census Regions: All"
+"Gender: All"
+"HHS Regions: All"
+"Hispanic Origin: All"
+"Race: All"
+"States: All"
+"Year/Month: 2019; 2020"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: May 27, 2022 2:28:16 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on May 27, 2022 2:28:16 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. The criteria used to determine the populations for the non-standard age-adjusted rates are documented in the Query Criteria"
+"section below."
+"8. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Non-standard Age-Adjusted Rates."
+"9. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"10. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age"
+"groups, so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"11. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"12. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Standard-Errors."
+"13. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"14. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"15. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"16. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"17. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
